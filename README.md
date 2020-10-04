@@ -1,4 +1,4 @@
-# Coin Counter Brazilian Real and Dollar
+# COINTADOR: A Coin Counter Brazilian Real and Dollar
 This work aims to count coins in images using only the OpenCV library and **Python 3.7**
 
 ## :books: Libraries (requirements.txt)
