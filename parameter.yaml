@@ -1,0 +1,30 @@
+low_color: 0
+low_area: 0
+low_circularity: 0
+low_convexity: 0
+low_inertia: 0
+max_color: 255
+
+threshold:
+    filterByColor: True
+    blobColor: 0
+    minDistBetweenBlobs: 25
+    thresholdStep: 15
+    minRepeatability: 3
+
+area:
+    filterByArea: True
+    maxArea: 100000
+
+circularity:
+    filterByCircularity: True
+    
+convexity:
+    filterByConvexity: True
+
+inertia:
+    filterByInertia: True
+
+images:
+    image1: real_original.jpg
+    image2: dolar_original.png
