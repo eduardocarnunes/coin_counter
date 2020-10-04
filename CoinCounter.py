@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct  2 14:47:55 2020
+Created on Friday Oct  2 2020
 
-@author: Eduardo
+@author: Eduardo Carvalho Nunes
+
+e-mail: eduardocarvnunes@gmail.com
 """
 #import libraries
 import cv2
